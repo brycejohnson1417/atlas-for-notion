@@ -1,0 +1,15 @@
+.next
+node_modules
+dist
+coverage
+.env
+.env.local
+.atlas
+playwright-report
+reports
+test-results
+.vercel
+tsconfig.tsbuildinfo
+
+.DS_Store
+.playwright-mcp

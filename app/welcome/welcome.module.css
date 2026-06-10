@@ -1,0 +1,162 @@
+.page {
+  min-height: 100dvh;
+  background:
+    radial-gradient(circle at 18% 14%, rgba(94, 106, 210, 0.22), transparent 28%),
+    var(--bg);
+  color: var(--text);
+}
+
+.hero {
+  width: min(960px, calc(100vw - 32px));
+  margin: 0 auto;
+  padding: 56px 0 28px;
+}
+
+.backLink,
+.primaryAction,
+.secondaryAction,
+.stepContent a {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  text-decoration: none;
+}
+
+.backLink {
+  margin-bottom: 28px;
+  color: var(--text-muted);
+  font-size: 13px;
+}
+
+.hero h1 {
+  max-width: 720px;
+  margin: 0;
+  font-size: clamp(42px, 8vw, 84px);
+  line-height: 0.95;
+}
+
+.hero p {
+  max-width: 620px;
+  margin: 20px 0 0;
+  color: var(--text-muted);
+  font-size: 18px;
+  line-height: 1.55;
+}
+
+.heroActions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  margin-top: 28px;
+}
+
+.primaryAction,
+.secondaryAction {
+  min-height: 42px;
+  border: 1px solid var(--border);
+  border-radius: var(--radius-pill);
+  padding: 0 16px;
+}
+
+.primaryAction {
+  background: var(--accent);
+  color: white;
+}
+
+.secondaryAction {
+  background: var(--surface);
+  color: var(--text);
+}
+
+.steps {
+  display: grid;
+  width: min(960px, calc(100vw - 32px));
+  gap: 14px;
+  margin: 0 auto;
+  padding: 10px 0 56px;
+}
+
+.stepCard {
+  display: grid;
+  grid-template-columns: 42px minmax(0, 1fr) minmax(240px, 340px);
+  gap: 16px;
+  align-items: stretch;
+  border: 1px solid var(--border);
+  border-radius: var(--radius-card);
+  background: var(--surface);
+  padding: 16px;
+  box-shadow: var(--shadow-card);
+  backdrop-filter: blur(var(--backdrop-blur));
+}
+
+.stepNumber {
+  display: grid;
+  width: 32px;
+  height: 32px;
+  place-items: center;
+  border-radius: 50%;
+  background: rgba(94, 106, 210, 0.2);
+  color: var(--text);
+  font-weight: 700;
+}
+
+.stepContent {
+  display: grid;
+  align-content: start;
+  gap: 8px;
+}
+
+.stepContent h2 {
+  margin: 0;
+  font-size: 20px;
+}
+
+.stepContent p {
+  margin: 0;
+  color: var(--text-muted);
+  line-height: 1.5;
+}
+
+.stepContent a {
+  width: fit-content;
+  margin-top: 4px;
+  color: var(--text);
+  font-size: 13px;
+  font-weight: 700;
+}
+
+.screenshotSlot {
+  display: grid;
+  min-height: 132px;
+  place-items: center;
+  border: 1px dashed rgba(255, 255, 255, 0.18);
+  border-radius: 10px;
+  background:
+    linear-gradient(rgba(255, 255, 255, 0.04) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(255, 255, 255, 0.04) 1px, transparent 1px),
+    rgba(255, 255, 255, 0.04);
+  background-size: 24px 24px;
+  padding: 16px;
+}
+
+.screenshotSlot span {
+  max-width: 260px;
+  color: var(--text-muted);
+  font-size: 12px;
+  line-height: 1.45;
+  text-align: center;
+}
+
+@media (max-width: 760px) {
+  .hero {
+    padding-top: 32px;
+  }
+
+  .stepCard {
+    grid-template-columns: 36px minmax(0, 1fr);
+  }
+
+  .screenshotSlot {
+    grid-column: 1 / -1;
+  }
+}

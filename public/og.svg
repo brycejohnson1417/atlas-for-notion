@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <rect width="1200" height="630" fill="#0B0D10"/>
+  <rect x="56" y="56" width="1088" height="518" rx="28" fill="#16191E" stroke="rgba(255,255,255,.14)"/>
+  <path d="M180 156l64 192-64-34-64 34 64-192z" fill="#5E6AD2"/>
+  <text x="300" y="236" fill="#E6E8EB" font-family="Inter, Arial, sans-serif" font-size="74" font-weight="700">Atlas for Notion</text>
+  <text x="304" y="310" fill="#9BA1A9" font-family="Inter, Arial, sans-serif" font-size="34">Open-source map CRM for Notion databases</text>
+  <circle cx="840" cy="390" r="20" fill="#16191E" stroke="#4DAB9A" stroke-width="7"/>
+  <circle cx="918" cy="322" r="20" fill="#16191E" stroke="#529CCA" stroke-width="7"/>
+  <circle cx="1004" cy="402" r="20" fill="#16191E" stroke="#FF7369" stroke-width="7"/>
+  <circle cx="760" cy="455" r="34" fill="rgba(22,25,30,.9)" stroke="rgba(255,255,255,.18)"/>
+  <text x="748" y="466" fill="#E6E8EB" font-family="Inter, Arial, sans-serif" font-size="28">42</text>
+</svg>

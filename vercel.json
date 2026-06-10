@@ -1,0 +1,12 @@
+{
+  "env": {
+    "DEMO_MODE": "true",
+    "EMBED_SHARE_KEY": "dev-demo-key"
+  },
+  "build": {
+    "env": {
+      "DEMO_MODE": "true",
+      "EMBED_SHARE_KEY": "dev-demo-key"
+    }
+  }
+}

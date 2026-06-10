@@ -1,0 +1,13 @@
+.git
+.next
+.vercel
+.atlas
+node_modules
+reports
+test-results
+playwright-report
+coverage
+dist
+.env
+.env.local
+tsconfig.tsbuildinfo

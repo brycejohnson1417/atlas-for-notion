@@ -1,0 +1,2328 @@
+{
+  "database": {
+    "title": "Accounts — NYC Laptop-Friendly Workspots",
+    "statusOptions": [
+      {
+        "name": "Favorite",
+        "color": "green"
+      },
+      {
+        "name": "Go-To",
+        "color": "blue"
+      },
+      {
+        "name": "Want to Try",
+        "color": "purple"
+      },
+      {
+        "name": "Crowded",
+        "color": "yellow"
+      },
+      {
+        "name": "Skip",
+        "color": "red"
+      }
+    ]
+  },
+  "accounts": [
+    {
+      "name": "Housing Works Bookstore Cafe",
+      "type": "Bookstore Cafe",
+      "neighborhood": "SoHo",
+      "address": "126 Crosby St, New York, NY 10012",
+      "lat": 40.72427,
+      "lng": -73.99632,
+      "status": "Favorite",
+      "amenities": [
+        "Free WiFi"
+      ],
+      "website": "https://housingworks.org",
+      "lastVisit": "2026-05-28",
+      "notes": "Next door to BrainStation - the on-stage Cmd-K search target."
+    },
+    {
+      "name": "787 Coffee",
+      "type": "Coffee Shop",
+      "neighborhood": "Manhattan/Brooklyn",
+      "address": "66 Pearl Street, New York, NY 10004",
+      "lat": 40.703525,
+      "lng": -74.010888,
+      "status": "Favorite",
+      "amenities": [
+        "Free WiFi"
+      ],
+      "website": "https://www.787coffee.com/",
+      "lastVisit": "2026-05-04",
+      "notes": "OpenStreetMap-sourced NYC cafe row for the Atlas demo dataset. Amenities are demo curation fields."
+    },
+    {
+      "name": "9th St Espresso",
+      "type": "Cafe",
+      "neighborhood": "Manhattan/Brooklyn",
+      "address": "700 East 9th Street, New York, NY 10009",
+      "lat": 40.725087,
+      "lng": -73.977763,
+      "status": "Favorite",
+      "amenities": [
+        "Power Outlets"
+      ],
+      "website": null,
+      "lastVisit": "2026-03-28",
+      "notes": "OpenStreetMap-sourced NYC cafe row for the Atlas demo dataset. Amenities are demo curation fields."
+    },
+    {
+      "name": "Astor Row Cafe",
+      "type": "Coffee Shop",
+      "neighborhood": "Brooklyn/Queens",
+      "address": "404 Lenox Avenue, New York, NY 10037",
+      "lat": 40.810931,
+      "lng": -73.942837,
+      "status": "Favorite",
+      "amenities": [
+        "Free WiFi",
+        "Power Outlets"
+      ],
+      "website": null,
+      "lastVisit": "2026-02-19",
+      "notes": "OpenStreetMap-sourced NYC cafe row for the Atlas demo dataset. Amenities are demo curation fields."
+    },
+    {
+      "name": "Ave Coffee House",
+      "type": "Coffee Shop",
+      "neighborhood": "Brooklyn/Queens",
+      "address": "45-01 Greenpoint Avenue, New York, NY",
+      "lat": 40.7421,
+      "lng": -73.919658,
+      "status": "Go-To",
+      "amenities": [
+        "Free WiFi"
+      ],
+      "website": null,
+      "lastVisit": "2026-05-13",
+      "notes": "OpenStreetMap-sourced NYC cafe row for the Atlas demo dataset. Amenities are demo curation fields."
+    },
+    {
+      "name": "Bagel Cafe",
+      "type": "Cafe",
+      "neighborhood": "Manhattan/Brooklyn",
+      "address": "200 Clinton Street, New York, NY 11201",
+      "lat": 40.690431,
+      "lng": -73.994427,
+      "status": "Go-To",
+      "amenities": [
+        "Power Outlets"
+      ],
+      "website": "https://www.atlanticbagelscafe.com",
+      "lastVisit": "2026-04-06",
+      "notes": "OpenStreetMap-sourced NYC cafe row for the Atlas demo dataset. Amenities are demo curation fields."
+    },
+    {
+      "name": "Bagel Talk",
+      "type": "Cafe",
+      "neighborhood": "Manhattan/Brooklyn",
+      "address": "368 Amsterdam Avenue, New York, NY 10024",
+      "lat": 40.782291,
+      "lng": -73.979208,
+      "status": "Go-To",
+      "amenities": [
+        "Free WiFi",
+        "Power Outlets"
+      ],
+      "website": null,
+      "lastVisit": "2026-02-28",
+      "notes": "OpenStreetMap-sourced NYC cafe row for the Atlas demo dataset. Amenities are demo curation fields."
+    },
+    {
+      "name": "Bakeri",
+      "type": "Cafe",
+      "neighborhood": "Manhattan/Brooklyn",
+      "address": "150 Wythe Avenue, Brooklyn, NY 11249",
+      "lat": 40.720006,
+      "lng": -73.960076,
+      "status": "Go-To",
+      "amenities": [
+        "Free WiFi"
+      ],
+      "website": "https://www.bakeribrooklyn.com",
+      "lastVisit": "2026-05-22",
+      "notes": "OpenStreetMap-sourced NYC cafe row for the Atlas demo dataset. Amenities are demo curation fields."
+    },
+    {
+      "name": "Best Bagel & Coffee",
+      "type": "Coffee Shop",
+      "neighborhood": "Manhattan/Brooklyn",
+      "address": "225 West 35th Street, New York, NY 10001",
+      "lat": 40.752217,
+      "lng": -73.991132,
+      "status": "Go-To",
+      "amenities": [
+        "Power Outlets"
+      ],
+      "website": "https://www.bestbagelandcoffee.com",
+      "lastVisit": "2026-04-15",
+      "notes": "OpenStreetMap-sourced NYC cafe row for the Atlas demo dataset. Amenities are demo curation fields."
+    },
+    {
+      "name": "Birch Coffee",
+      "type": "Coffee Shop",
+      "neighborhood": "Manhattan/Brooklyn",
+      "address": "750 Columbus Avenue, New York, NY 10025",
+      "lat": 40.793205,
+      "lng": -73.967546,
+      "status": "Go-To",
+      "amenities": [
+        "Free WiFi",
+        "Power Outlets"
+      ],
+      "website": "https://www.birchcoffee.com/",
+      "lastVisit": "2026-03-09",
+      "notes": "OpenStreetMap-sourced NYC cafe row for the Atlas demo dataset. Amenities are demo curation fields."
+    },
+    {
+      "name": "Bite",
+      "type": "Cafe",
+      "neighborhood": "Manhattan/Brooklyn",
+      "address": "337 Lafayette Street, New York, NY",
+      "lat": 40.725584,
+      "lng": -73.99474,
+      "status": "Want to Try",
+      "amenities": [
+        "Free WiFi"
+      ],
+      "website": "https://www.bitenyc.com/",
+      "lastVisit": "2026-05-31",
+      "notes": "OpenStreetMap-sourced NYC cafe row for the Atlas demo dataset. Amenities are demo curation fields."
+    },
+    {
+      "name": "Bittersweet",
+      "type": "Coffee Shop",
+      "neighborhood": "Manhattan/Brooklyn",
+      "address": "180 DeKalb Avenue, New York, NY 11205",
+      "lat": 40.689485,
+      "lng": -73.972542,
+      "status": "Want to Try",
+      "amenities": [
+        "Power Outlets"
+      ],
+      "website": null,
+      "lastVisit": "2026-04-24",
+      "notes": "OpenStreetMap-sourced NYC cafe row for the Atlas demo dataset. Amenities are demo curation fields."
+    },
+    {
+      "name": "Black Brick",
+      "type": "Cafe",
+      "neighborhood": "Manhattan/Brooklyn",
+      "address": "300 Bedford Avenue, Brooklyn, NY 11211",
+      "lat": 40.714183,
+      "lng": -73.961624,
+      "status": "Want to Try",
+      "amenities": [
+        "Free WiFi",
+        "Power Outlets"
+      ],
+      "website": "https://blackbrickcoffee.com/",
+      "lastVisit": "2026-03-18",
+      "notes": "OpenStreetMap-sourced NYC cafe row for the Atlas demo dataset. Amenities are demo curation fields."
+    },
+    {
+      "name": "BlueSpoon Coffee Co",
+      "type": "Coffee Shop",
+      "neighborhood": "Manhattan/Brooklyn",
+      "address": "90 William Street, New York, NY 10038",
+      "lat": 40.708235,
+      "lng": -74.007615,
+      "status": "Want to Try",
+      "amenities": [
+        "Free WiFi"
+      ],
+      "website": null,
+      "lastVisit": "2026-06-09",
+      "notes": "OpenStreetMap-sourced NYC cafe row for the Atlas demo dataset. Amenities are demo curation fields."
+    },
+    {
+      "name": "Broad Nosh Bagel",
+      "type": "Cafe",
+      "neighborhood": "Manhattan/Brooklyn",
+      "address": "2350 Broadway, New York, NY 10025",
+      "lat": 40.787968,
+      "lng": -73.976444,
+      "status": "Want to Try",
+      "amenities": [
+        "Power Outlets"
+      ],
+      "website": "https://broadnosh.com",
+      "lastVisit": "2026-05-03",
+      "notes": "OpenStreetMap-sourced NYC cafe row for the Atlas demo dataset. Amenities are demo curation fields."
+    },
+    {
+      "name": "Broadway Cafe",
+      "type": "Cafe",
+      "neighborhood": "Manhattan/Brooklyn",
+      "address": "1123 Broadway, New York, NY 10010",
+      "lat": 40.743391,
+      "lng": -73.989265,
+      "status": "Crowded",
+      "amenities": [
+        "Free WiFi",
+        "Power Outlets"
+      ],
+      "website": null,
+      "lastVisit": "2026-03-27",
+      "notes": "OpenStreetMap-sourced NYC cafe row for the Atlas demo dataset. Amenities are demo curation fields."
+    },
+    {
+      "name": "Brooklyn Bagel",
+      "type": "Cafe",
+      "neighborhood": "Brooklyn/Queens",
+      "address": "35-05 Broadway, Astoria, NY",
+      "lat": 40.760478,
+      "lng": -73.921859,
+      "status": "Crowded",
+      "amenities": [
+        "Free WiFi"
+      ],
+      "website": null,
+      "lastVisit": "2026-02-18",
+      "notes": "OpenStreetMap-sourced NYC cafe row for the Atlas demo dataset. Amenities are demo curation fields."
+    },
+    {
+      "name": "Brooklyn Bagel & Coffee Company",
+      "type": "Coffee Shop",
+      "neighborhood": "Manhattan/Brooklyn",
+      "address": "286 8th Avenue, New York, NY 10001",
+      "lat": 40.746154,
+      "lng": -73.997586,
+      "status": "Crowded",
+      "amenities": [
+        "Power Outlets"
+      ],
+      "website": "https://bkbagel.com/",
+      "lastVisit": "2026-05-12",
+      "notes": "OpenStreetMap-sourced NYC cafe row for the Atlas demo dataset. Amenities are demo curation fields."
+    },
+    {
+      "name": "Cafe Amrita",
+      "type": "Cafe",
+      "neighborhood": "Brooklyn/Queens",
+      "address": "301 Cathedral Parkway, New York, NY 10026",
+      "lat": 40.801023,
+      "lng": -73.958755,
+      "status": "Skip",
+      "amenities": [
+        "Free WiFi",
+        "Power Outlets"
+      ],
+      "website": "https://amritacafe.com",
+      "lastVisit": "2026-04-05",
+      "notes": "OpenStreetMap-sourced NYC cafe row for the Atlas demo dataset. Amenities are demo curation fields."
+    },
+    {
+      "name": "Cafe Delecctica",
+      "type": "Coffee Shop",
+      "neighborhood": "Manhattan/Brooklyn",
+      "address": "564 3rd Avenue, New York, NY 10016",
+      "lat": 40.748169,
+      "lng": -73.976608,
+      "status": "Skip",
+      "amenities": [
+        "Free WiFi"
+      ],
+      "website": null,
+      "lastVisit": "2026-02-27",
+      "notes": "OpenStreetMap-sourced NYC cafe row for the Atlas demo dataset. Amenities are demo curation fields."
+    },
+    {
+      "name": "Cafe Habibti",
+      "type": "Coffee Shop",
+      "neighborhood": "Manhattan/Brooklyn",
+      "address": "510 LaGuardia Place, New York, NY 10012",
+      "lat": 40.727856,
+      "lng": -73.999321,
+      "status": "Favorite",
+      "amenities": [
+        "Power Outlets"
+      ],
+      "website": "https://www.cafehabibti.com",
+      "lastVisit": "2026-05-21",
+      "notes": "OpenStreetMap-sourced NYC cafe row for the Atlas demo dataset. Amenities are demo curation fields."
+    },
+    {
+      "name": "Canteen Delicatessen & Cafe",
+      "type": "Cafe",
+      "neighborhood": "Manhattan/Brooklyn",
+      "address": "57 4th Avenue, New York, NY",
+      "lat": 40.682517,
+      "lng": -73.979317,
+      "status": "Favorite",
+      "amenities": [
+        "Free WiFi",
+        "Power Outlets"
+      ],
+      "website": "https://www.canteendelicatessencafe.com/",
+      "lastVisit": "2026-04-14",
+      "notes": "OpenStreetMap-sourced NYC cafe row for the Atlas demo dataset. Amenities are demo curation fields."
+    },
+    {
+      "name": "Cha Cha Matcha",
+      "type": "Coffee Shop",
+      "neighborhood": "Manhattan/Brooklyn",
+      "address": "1158 Broadway, New York, NY 10001",
+      "lat": 40.744591,
+      "lng": -73.988682,
+      "status": "Favorite",
+      "amenities": [
+        "Free WiFi"
+      ],
+      "website": "https://chachamatcha.com/pages/locations?location=new-york-city",
+      "lastVisit": "2026-03-08",
+      "notes": "OpenStreetMap-sourced NYC cafe row for the Atlas demo dataset. Amenities are demo curation fields."
+    },
+    {
+      "name": "Chalait",
+      "type": "Coffee Shop",
+      "neighborhood": "Manhattan/Brooklyn",
+      "address": "461 Amsterdam Avenue, New York, NY 10024",
+      "lat": 40.785117,
+      "lng": -73.976649,
+      "status": "Favorite",
+      "amenities": [
+        "Power Outlets"
+      ],
+      "website": "https://www.chalait.com/",
+      "lastVisit": "2026-05-30",
+      "notes": "OpenStreetMap-sourced NYC cafe row for the Atlas demo dataset. Amenities are demo curation fields."
+    },
+    {
+      "name": "Citizens",
+      "type": "Cafe",
+      "neighborhood": "Manhattan/Brooklyn",
+      "address": "201 Lafayette Street, New York, NY 10012",
+      "lat": 40.721354,
+      "lng": -73.997748,
+      "status": "Go-To",
+      "amenities": [
+        "Free WiFi",
+        "Power Outlets"
+      ],
+      "website": "https://citizens.coffee/citizens-of-soho",
+      "lastVisit": "2026-04-23",
+      "notes": "OpenStreetMap-sourced NYC cafe row for the Atlas demo dataset. Amenities are demo curation fields."
+    },
+    {
+      "name": "CoCo Fresh Tea & Juice",
+      "type": "Tea Cafe",
+      "neighborhood": "Manhattan/Brooklyn",
+      "address": "38B Lexington Avenue, New York, NY",
+      "lat": 40.74015,
+      "lng": -73.984507,
+      "status": "Go-To",
+      "amenities": [
+        "Free WiFi"
+      ],
+      "website": null,
+      "lastVisit": "2026-03-17",
+      "notes": "OpenStreetMap-sourced NYC cafe row for the Atlas demo dataset. Amenities are demo curation fields."
+    },
+    {
+      "name": "Columbus Café & Co",
+      "type": "Coffee Shop",
+      "neighborhood": "Manhattan/Brooklyn",
+      "address": "556 Columbus Avenue, New York, NY 10024",
+      "lat": 40.787115,
+      "lng": -73.971966,
+      "status": "Go-To",
+      "amenities": [
+        "Power Outlets"
+      ],
+      "website": "http://www.columbuscafenewyork.com",
+      "lastVisit": "2026-06-08",
+      "notes": "OpenStreetMap-sourced NYC cafe row for the Atlas demo dataset. Amenities are demo curation fields."
+    },
+    {
+      "name": "Diem Eatery",
+      "type": "Cafe",
+      "neighborhood": "Manhattan/Brooklyn",
+      "address": "79 Atlantic Avenue, New York, NY 11201",
+      "lat": 40.691291,
+      "lng": -73.997559,
+      "status": "Go-To",
+      "amenities": [
+        "Free WiFi",
+        "Power Outlets"
+      ],
+      "website": "https://diemeatery.com",
+      "lastVisit": "2026-05-02",
+      "notes": "OpenStreetMap-sourced NYC cafe row for the Atlas demo dataset. Amenities are demo curation fields."
+    },
+    {
+      "name": "Diljān",
+      "type": "Cafe",
+      "neighborhood": "Manhattan/Brooklyn",
+      "address": "330 Hicks Street, New York, NY 11201",
+      "lat": 40.69151,
+      "lng": -73.99777,
+      "status": "Go-To",
+      "amenities": [
+        "Free WiFi"
+      ],
+      "website": null,
+      "lastVisit": "2026-03-26",
+      "notes": "OpenStreetMap-sourced NYC cafe row for the Atlas demo dataset. Amenities are demo curation fields."
+    },
+    {
+      "name": "Doughnut Plant",
+      "type": "Cafe",
+      "neighborhood": "Brooklyn/Queens",
+      "address": "198 Bedford Avenue, Brooklyn, NY 11249",
+      "lat": 40.717427,
+      "lng": -73.958333,
+      "status": "Go-To",
+      "amenities": [
+        "Power Outlets"
+      ],
+      "website": "https://www.doughnutplant.com/location/williamsburg/",
+      "lastVisit": "2026-02-17",
+      "notes": "OpenStreetMap-sourced NYC cafe row for the Atlas demo dataset. Amenities are demo curation fields."
+    },
+    {
+      "name": "Eagle Trading Company",
+      "type": "Cafe",
+      "neighborhood": "Brooklyn/Queens",
+      "address": "258 Franklin Street, Brooklyn, NY 11222",
+      "lat": 40.734967,
+      "lng": -73.95827,
+      "status": "Want to Try",
+      "amenities": [
+        "Free WiFi",
+        "Power Outlets"
+      ],
+      "website": "http://www.eagletradingco.nyc",
+      "lastVisit": "2026-05-11",
+      "notes": "OpenStreetMap-sourced NYC cafe row for the Atlas demo dataset. Amenities are demo curation fields."
+    },
+    {
+      "name": "Enso",
+      "type": "Cafe",
+      "neighborhood": "Manhattan/Brooklyn",
+      "address": "192 Amity Street, New York, NY 11201",
+      "lat": 40.688351,
+      "lng": -73.993414,
+      "status": "Want to Try",
+      "amenities": [
+        "Free WiFi"
+      ],
+      "website": null,
+      "lastVisit": "2026-04-04",
+      "notes": "OpenStreetMap-sourced NYC cafe row for the Atlas demo dataset. Amenities are demo curation fields."
+    },
+    {
+      "name": "Europa Cafe",
+      "type": "Cafe",
+      "neighborhood": "Manhattan/Brooklyn",
+      "address": "3 Times Square, New York, NY",
+      "lat": 40.756692,
+      "lng": -73.986719,
+      "status": "Want to Try",
+      "amenities": [
+        "Power Outlets"
+      ],
+      "website": "https://www.europacafe.com/",
+      "lastVisit": "2026-02-26",
+      "notes": "OpenStreetMap-sourced NYC cafe row for the Atlas demo dataset. Amenities are demo curation fields."
+    },
+    {
+      "name": "Felix Roasting Co.",
+      "type": "Coffee Shop",
+      "neighborhood": "Manhattan/Brooklyn",
+      "address": "145 Greene Street, New York, NY 10012",
+      "lat": 40.726104,
+      "lng": -73.998715,
+      "status": "Want to Try",
+      "amenities": [
+        "Free WiFi",
+        "Power Outlets"
+      ],
+      "website": "https://felixroastingco.com/",
+      "lastVisit": "2026-05-20",
+      "notes": "OpenStreetMap-sourced NYC cafe row for the Atlas demo dataset. Amenities are demo curation fields."
+    },
+    {
+      "name": "Grabstein's Bagels",
+      "type": "Cafe",
+      "neighborhood": "Manhattan/Brooklyn",
+      "address": "651 Broadway, New York, NY 10012",
+      "lat": 40.726927,
+      "lng": -73.995715,
+      "status": "Want to Try",
+      "amenities": [
+        "Free WiFi"
+      ],
+      "website": null,
+      "lastVisit": "2026-04-13",
+      "notes": "OpenStreetMap-sourced NYC cafe row for the Atlas demo dataset. Amenities are demo curation fields."
+    },
+    {
+      "name": "Hidden Grounds",
+      "type": "Coffee Shop",
+      "neighborhood": "Manhattan/Brooklyn",
+      "address": "36 3rd Avenue, New York, NY 10003",
+      "lat": 40.730473,
+      "lng": -73.989476,
+      "status": "Crowded",
+      "amenities": [
+        "Power Outlets"
+      ],
+      "website": null,
+      "lastVisit": "2026-03-07",
+      "notes": "OpenStreetMap-sourced NYC cafe row for the Atlas demo dataset. Amenities are demo curation fields."
+    },
+    {
+      "name": "Joe & The Juice",
+      "type": "Coffee Shop",
+      "neighborhood": "Manhattan/Brooklyn",
+      "address": "40 Broad Street, New York, NY",
+      "lat": 40.705947,
+      "lng": -74.011645,
+      "status": "Crowded",
+      "amenities": [
+        "Free WiFi",
+        "Power Outlets"
+      ],
+      "website": null,
+      "lastVisit": "2026-05-29",
+      "notes": "OpenStreetMap-sourced NYC cafe row for the Atlas demo dataset. Amenities are demo curation fields."
+    },
+    {
+      "name": "Joe Coffee Company - West 120th Street",
+      "type": "Coffee Shop",
+      "neighborhood": "Manhattan/Brooklyn",
+      "address": "550 West 120th Street, New York, NY 10027",
+      "lat": 40.810196,
+      "lng": -73.961896,
+      "status": "Crowded",
+      "amenities": [
+        "Free WiFi"
+      ],
+      "website": "http://www.joenewyork.com/locations/columbia-university/",
+      "lastVisit": "2026-04-22",
+      "notes": "OpenStreetMap-sourced NYC cafe row for the Atlas demo dataset. Amenities are demo curation fields."
+    },
+    {
+      "name": "Joe Coffee Company - Waverly Place",
+      "type": "Coffee Shop",
+      "neighborhood": "Manhattan/Brooklyn",
+      "address": "141 Waverly Place, New York, NY 10014",
+      "lat": 40.733318,
+      "lng": -74.000557,
+      "status": "Skip",
+      "amenities": [
+        "Power Outlets"
+      ],
+      "website": "https://joecoffeecompany.com/locations/west-village/",
+      "lastVisit": "2026-03-16",
+      "notes": "OpenStreetMap-sourced NYC cafe row for the Atlas demo dataset. Amenities are demo curation fields."
+    },
+    {
+      "name": "Joe Coffee Company - Columbus Avenue",
+      "type": "Coffee Shop",
+      "neighborhood": "Manhattan/Brooklyn",
+      "address": "514 Columbus Avenue, New York, NY 10024",
+      "lat": 40.785725,
+      "lng": -73.972998,
+      "status": "Skip",
+      "amenities": [
+        "Free WiFi",
+        "Power Outlets"
+      ],
+      "website": "http://www.joenewyork.com/locations/upper-west/",
+      "lastVisit": "2026-06-07",
+      "notes": "OpenStreetMap-sourced NYC cafe row for the Atlas demo dataset. Amenities are demo curation fields."
+    },
+    {
+      "name": "Joe Coffee Company - East 13th Street",
+      "type": "Coffee Shop",
+      "neighborhood": "Manhattan/Brooklyn",
+      "address": "9 East 13th Street, New York, NY 10003",
+      "lat": 40.735088,
+      "lng": -73.993306,
+      "status": "Favorite",
+      "amenities": [
+        "Free WiFi"
+      ],
+      "website": "http://www.joenewyork.com/locations/union-square/",
+      "lastVisit": "2026-05-01",
+      "notes": "OpenStreetMap-sourced NYC cafe row for the Atlas demo dataset. Amenities are demo curation fields."
+    },
+    {
+      "name": "Joe Coffee Company - Hicks Street",
+      "type": "Coffee Shop",
+      "neighborhood": "Manhattan/Brooklyn",
+      "address": "102 Hicks Street, Brooklyn, NY 11201",
+      "lat": 40.698661,
+      "lng": -73.99436,
+      "status": "Favorite",
+      "amenities": [
+        "Power Outlets"
+      ],
+      "website": null,
+      "lastVisit": "2026-03-25",
+      "notes": "OpenStreetMap-sourced NYC cafe row for the Atlas demo dataset. Amenities are demo curation fields."
+    },
+    {
+      "name": "Kaffe 1668",
+      "type": "Cafe",
+      "neighborhood": "Manhattan/Brooklyn",
+      "address": "275 Greenwich Street, New York, NY",
+      "lat": 40.715171,
+      "lng": -74.011064,
+      "status": "Favorite",
+      "amenities": [
+        "Free WiFi",
+        "Power Outlets"
+      ],
+      "website": null,
+      "lastVisit": "2026-02-16",
+      "notes": "OpenStreetMap-sourced NYC cafe row for the Atlas demo dataset. Amenities are demo curation fields."
+    },
+    {
+      "name": "Kettl",
+      "type": "Tea Cafe",
+      "neighborhood": "Brooklyn/Queens",
+      "address": "70 Greenpoint Avenue, Brooklyn, NY 11222",
+      "lat": 40.729681,
+      "lng": -73.958182,
+      "status": "Favorite",
+      "amenities": [
+        "Free WiFi"
+      ],
+      "website": "https://kettl.co/",
+      "lastVisit": "2026-05-10",
+      "notes": "OpenStreetMap-sourced NYC cafe row for the Atlas demo dataset. Amenities are demo curation fields."
+    },
+    {
+      "name": "Kolkata Chai Co",
+      "type": "Cafe",
+      "neighborhood": "Manhattan/Brooklyn",
+      "address": "60 Kenmare Street, New York, NY 10012",
+      "lat": 40.720831,
+      "lng": -73.995956,
+      "status": "Go-To",
+      "amenities": [
+        "Power Outlets"
+      ],
+      "website": "https://kolkatachai.co",
+      "lastVisit": "2026-04-03",
+      "notes": "OpenStreetMap-sourced NYC cafe row for the Atlas demo dataset. Amenities are demo curation fields."
+    },
+    {
+      "name": "Kona Coffee and Company",
+      "type": "Coffee Shop",
+      "neighborhood": "Manhattan/Brooklyn",
+      "address": "57 2nd Avenue, New York, NY 10003",
+      "lat": 40.725862,
+      "lng": -73.989895,
+      "status": "Go-To",
+      "amenities": [
+        "Free WiFi",
+        "Power Outlets"
+      ],
+      "website": null,
+      "lastVisit": "2026-02-25",
+      "notes": "OpenStreetMap-sourced NYC cafe row for the Atlas demo dataset. Amenities are demo curation fields."
+    },
+    {
+      "name": "La Colombe Coffee Roasters - Lafayette Street",
+      "type": "Coffee Shop",
+      "neighborhood": "Manhattan/Brooklyn",
+      "address": "270 Lafayette Street, New York, NY 10012",
+      "lat": 40.723979,
+      "lng": -73.996459,
+      "status": "Go-To",
+      "amenities": [
+        "Free WiFi"
+      ],
+      "website": null,
+      "lastVisit": "2026-05-19",
+      "notes": "OpenStreetMap-sourced NYC cafe row for the Atlas demo dataset. Amenities are demo curation fields."
+    },
+    {
+      "name": "Larry's Ca Phe",
+      "type": "Coffee Shop",
+      "neighborhood": "Brooklyn/Queens",
+      "address": "135 Woodpoint Road, Brooklyn, NY 11211",
+      "lat": 40.717553,
+      "lng": -73.941199,
+      "status": "Go-To",
+      "amenities": [
+        "Power Outlets"
+      ],
+      "website": "https://www.larryscaphe.com/",
+      "lastVisit": "2026-04-12",
+      "notes": "OpenStreetMap-sourced NYC cafe row for the Atlas demo dataset. Amenities are demo curation fields."
+    },
+    {
+      "name": "Lazy Sundaes",
+      "type": "Tea Cafe",
+      "neighborhood": "Manhattan/Brooklyn",
+      "address": "11 Waverly Place, New York, NY 10003",
+      "lat": 40.730123,
+      "lng": -73.994116,
+      "status": "Go-To",
+      "amenities": [
+        "Free WiFi",
+        "Power Outlets"
+      ],
+      "website": null,
+      "lastVisit": "2026-03-06",
+      "notes": "OpenStreetMap-sourced NYC cafe row for the Atlas demo dataset. Amenities are demo curation fields."
+    },
+    {
+      "name": "Le Pain Quotidien - Lexington Avenue",
+      "type": "Coffee Shop",
+      "neighborhood": "Brooklyn/Queens",
+      "address": "1309 Lexington Avenue, New York, NY 10128",
+      "lat": 40.780542,
+      "lng": -73.954568,
+      "status": "Go-To",
+      "amenities": [
+        "Free WiFi"
+      ],
+      "website": "https://www.lepainquotidien.com/us/en/locations/carnegie_hill/1309-lexington-ave",
+      "lastVisit": "2026-05-28",
+      "notes": "OpenStreetMap-sourced NYC cafe row for the Atlas demo dataset. Amenities are demo curation fields."
+    },
+    {
+      "name": "Luckin Coffee",
+      "type": "Coffee Shop",
+      "neighborhood": "Manhattan/Brooklyn",
+      "address": "2799 Broadway, New York, NY 10025",
+      "lat": 40.802954,
+      "lng": -73.967952,
+      "status": "Want to Try",
+      "amenities": [
+        "Power Outlets"
+      ],
+      "website": null,
+      "lastVisit": "2026-04-21",
+      "notes": "OpenStreetMap-sourced NYC cafe row for the Atlas demo dataset. Amenities are demo curation fields."
+    },
+    {
+      "name": "Maman",
+      "type": "Coffee Shop",
+      "neighborhood": "Manhattan/Brooklyn",
+      "address": "155 East 44th Street, New York, NY",
+      "lat": 40.752318,
+      "lng": -73.973818,
+      "status": "Want to Try",
+      "amenities": [
+        "Free WiFi",
+        "Power Outlets"
+      ],
+      "website": "https://mamannyc.com/locations/midtown-east",
+      "lastVisit": "2026-03-15",
+      "notes": "OpenStreetMap-sourced NYC cafe row for the Atlas demo dataset. Amenities are demo curation fields."
+    },
+    {
+      "name": "Matto Espresso",
+      "type": "Coffee Shop",
+      "neighborhood": "Manhattan/Brooklyn",
+      "address": "293 Mercer Street, New York, NY 10003",
+      "lat": 40.730246,
+      "lng": -73.993967,
+      "status": "Want to Try",
+      "amenities": [
+        "Free WiFi"
+      ],
+      "website": "https://www.matto.com/",
+      "lastVisit": "2026-06-06",
+      "notes": "OpenStreetMap-sourced NYC cafe row for the Atlas demo dataset. Amenities are demo curation fields."
+    },
+    {
+      "name": "Max Brenner",
+      "type": "Cafe Chain",
+      "neighborhood": "Manhattan/Brooklyn",
+      "address": "841 Broadway, New York, NY 10003",
+      "lat": 40.734388,
+      "lng": -73.991056,
+      "status": "Want to Try",
+      "amenities": [
+        "Power Outlets"
+      ],
+      "website": "https://maxbrenner.com/pages/union-square-nyc",
+      "lastVisit": "2026-04-30",
+      "notes": "OpenStreetMap-sourced NYC cafe row for the Atlas demo dataset. Amenities are demo curation fields."
+    },
+    {
+      "name": "Moka & Co",
+      "type": "Coffee Shop",
+      "neighborhood": "Manhattan/Brooklyn",
+      "address": "2481 Broadway, New York, NY 10025",
+      "lat": 40.792418,
+      "lng": -73.973805,
+      "status": "Want to Try",
+      "amenities": [
+        "Free WiFi",
+        "Power Outlets"
+      ],
+      "website": "https://mokanco.com",
+      "lastVisit": "2026-03-24",
+      "notes": "OpenStreetMap-sourced NYC cafe row for the Atlas demo dataset. Amenities are demo curation fields."
+    },
+    {
+      "name": "Napoleon's Southern Cuisine & Bakery",
+      "type": "Cafe",
+      "neighborhood": "Brooklyn/Queens",
+      "address": "1180 Bedford Avenue, New York, NY 11216",
+      "lat": 40.683777,
+      "lng": -73.954158,
+      "status": "Crowded",
+      "amenities": [
+        "Free WiFi"
+      ],
+      "website": "https://www.napoleonsoulfood.com/",
+      "lastVisit": "2026-02-15",
+      "notes": "OpenStreetMap-sourced NYC cafe row for the Atlas demo dataset. Amenities are demo curation fields."
+    },
+    {
+      "name": "Niko Coffee",
+      "type": "Coffee Shop",
+      "neighborhood": "Manhattan/Brooklyn",
+      "address": "1090 Amsterdam Avenue, New York, NY",
+      "lat": 40.805276,
+      "lng": -73.962431,
+      "status": "Crowded",
+      "amenities": [
+        "Power Outlets"
+      ],
+      "website": "https://nikocoffeenyc.com",
+      "lastVisit": "2026-05-09",
+      "notes": "OpenStreetMap-sourced NYC cafe row for the Atlas demo dataset. Amenities are demo curation fields."
+    },
+    {
+      "name": "Not As Bitter",
+      "type": "Coffee Shop",
+      "neighborhood": "Manhattan/Brooklyn",
+      "address": "241 East 10th Street, New York, NY 10003",
+      "lat": 40.729007,
+      "lng": -73.984726,
+      "status": "Crowded",
+      "amenities": [
+        "Free WiFi",
+        "Power Outlets"
+      ],
+      "website": "https://www.notasbitter.com",
+      "lastVisit": "2026-04-02",
+      "notes": "OpenStreetMap-sourced NYC cafe row for the Atlas demo dataset. Amenities are demo curation fields."
+    },
+    {
+      "name": "Oslo Coffee Roasters",
+      "type": "Coffee Shop",
+      "neighborhood": "Manhattan/Brooklyn",
+      "address": "328 Bedford Avenue, Brooklyn, NY 11211",
+      "lat": 40.713136,
+      "lng": -73.962299,
+      "status": "Skip",
+      "amenities": [
+        "Free WiFi"
+      ],
+      "website": "https://oslocoffee.com/pages/location/bedford-brooklyn-ny",
+      "lastVisit": "2026-02-24",
+      "notes": "OpenStreetMap-sourced NYC cafe row for the Atlas demo dataset. Amenities are demo curation fields."
+    },
+    {
+      "name": "Oxford Cafe",
+      "type": "Cafe",
+      "neighborhood": "Manhattan/Brooklyn",
+      "address": "80 Broad Street, New York, NY 10004",
+      "lat": 40.704162,
+      "lng": -74.011723,
+      "status": "Skip",
+      "amenities": [
+        "Power Outlets"
+      ],
+      "website": null,
+      "lastVisit": "2026-05-18",
+      "notes": "OpenStreetMap-sourced NYC cafe row for the Atlas demo dataset. Amenities are demo curation fields."
+    },
+    {
+      "name": "Paris Baguette",
+      "type": "Cafe Chain",
+      "neighborhood": "Manhattan/Brooklyn",
+      "address": "1635 Lemoine Avenue, New York, NY 07024",
+      "lat": 40.850538,
+      "lng": -73.970658,
+      "status": "Favorite",
+      "amenities": [
+        "Free WiFi",
+        "Power Outlets"
+      ],
+      "website": "https://order.parisbaguette.com/menu/pbnj002",
+      "lastVisit": "2026-04-11",
+      "notes": "OpenStreetMap-sourced NYC cafe row for the Atlas demo dataset. Amenities are demo curation fields."
+    },
+    {
+      "name": "Partners Coffee",
+      "type": "Coffee Shop",
+      "neighborhood": "Brooklyn/Queens",
+      "address": "125 North 6th Street, New York, NY 11249",
+      "lat": 40.717968,
+      "lng": -73.959178,
+      "status": "Favorite",
+      "amenities": [
+        "Free WiFi"
+      ],
+      "website": "https://www.partnerscoffee.com/pages/store-locator#map-info-store-locator-1",
+      "lastVisit": "2026-03-05",
+      "notes": "OpenStreetMap-sourced NYC cafe row for the Atlas demo dataset. Amenities are demo curation fields."
+    },
+    {
+      "name": "Pause Cafe",
+      "type": "Coffee Shop",
+      "neighborhood": "Manhattan/Brooklyn",
+      "address": "3 Clinton Street, New York, NY 10002",
+      "lat": 40.721226,
+      "lng": -73.984094,
+      "status": "Favorite",
+      "amenities": [
+        "Power Outlets"
+      ],
+      "website": "https://www.pausecafenyc.com/",
+      "lastVisit": "2026-05-27",
+      "notes": "OpenStreetMap-sourced NYC cafe row for the Atlas demo dataset. Amenities are demo curation fields."
+    },
+    {
+      "name": "Pick-a-Bagel",
+      "type": "Cafe",
+      "neighborhood": "Manhattan/Brooklyn",
+      "address": "102 North End Avenue, New York, NY 10282",
+      "lat": 40.71459,
+      "lng": -74.015148,
+      "status": "Favorite",
+      "amenities": [
+        "Free WiFi",
+        "Power Outlets"
+      ],
+      "website": null,
+      "lastVisit": "2026-04-20",
+      "notes": "OpenStreetMap-sourced NYC cafe row for the Atlas demo dataset. Amenities are demo curation fields."
+    },
+    {
+      "name": "PlantShed",
+      "type": "Cafe",
+      "neighborhood": "Manhattan/Brooklyn",
+      "address": "1 Prince Street, New York, NY 10012",
+      "lat": 40.722524,
+      "lng": -73.993435,
+      "status": "Go-To",
+      "amenities": [
+        "Free WiFi"
+      ],
+      "website": "https://www.plantshed.com/retail-prince-st",
+      "lastVisit": "2026-03-14",
+      "notes": "OpenStreetMap-sourced NYC cafe row for the Atlas demo dataset. Amenities are demo curation fields."
+    },
+    {
+      "name": "Plymouth Café",
+      "type": "Cafe",
+      "neighborhood": "Manhattan/Brooklyn",
+      "address": "90 Henry Street, New York, NY 11201",
+      "lat": 40.698264,
+      "lng": -73.992785,
+      "status": "Go-To",
+      "amenities": [
+        "Power Outlets"
+      ],
+      "website": null,
+      "lastVisit": "2026-06-05",
+      "notes": "OpenStreetMap-sourced NYC cafe row for the Atlas demo dataset. Amenities are demo curation fields."
+    },
+    {
+      "name": "Poppy's Cafe - Degraw Street",
+      "type": "Coffee Shop",
+      "neighborhood": "Manhattan/Brooklyn",
+      "address": "243 Degraw Street, New York, NY 11231",
+      "lat": 40.684295,
+      "lng": -73.996843,
+      "status": "Go-To",
+      "amenities": [
+        "Free WiFi",
+        "Power Outlets"
+      ],
+      "website": "https://www.poppysbrooklyn.com/cafe/",
+      "lastVisit": "2026-04-29",
+      "notes": "OpenStreetMap-sourced NYC cafe row for the Atlas demo dataset. Amenities are demo curation fields."
+    },
+    {
+      "name": "Prince Tea House",
+      "type": "Tea Cafe",
+      "neighborhood": "Manhattan/Brooklyn",
+      "address": "204 East 10th Street, New York, NY 10003",
+      "lat": 40.729491,
+      "lng": -73.986393,
+      "status": "Go-To",
+      "amenities": [
+        "Free WiFi"
+      ],
+      "website": "https://www.princeteahouse.com",
+      "lastVisit": "2026-03-23",
+      "notes": "OpenStreetMap-sourced NYC cafe row for the Atlas demo dataset. Amenities are demo curation fields."
+    },
+    {
+      "name": "Salter House",
+      "type": "Coffee Shop",
+      "neighborhood": "Manhattan/Brooklyn",
+      "address": "119 Atlantic Avenue, New York, NY 11201",
+      "lat": 40.690941,
+      "lng": -73.996294,
+      "status": "Go-To",
+      "amenities": [
+        "Power Outlets"
+      ],
+      "website": "https://salter.house",
+      "lastVisit": "2026-02-14",
+      "notes": "OpenStreetMap-sourced NYC cafe row for the Atlas demo dataset. Amenities are demo curation fields."
+    },
+    {
+      "name": "Smith St. Bagels",
+      "type": "Cafe",
+      "neighborhood": "Manhattan/Brooklyn",
+      "address": "202 Smith Street, New York, NY 11201",
+      "lat": 40.684763,
+      "lng": -73.991946,
+      "status": "Go-To",
+      "amenities": [
+        "Free WiFi",
+        "Power Outlets"
+      ],
+      "website": "https://smithstreetbagelsny.com/",
+      "lastVisit": "2026-05-08",
+      "notes": "OpenStreetMap-sourced NYC cafe row for the Atlas demo dataset. Amenities are demo curation fields."
+    },
+    {
+      "name": "Springbone Kitchen",
+      "type": "Cafe",
+      "neighborhood": "Manhattan/Brooklyn",
+      "address": "74 Pearl Street, New York, NY 10004",
+      "lat": 40.703714,
+      "lng": -74.010478,
+      "status": "Want to Try",
+      "amenities": [
+        "Free WiFi"
+      ],
+      "website": "https://springbone.com",
+      "lastVisit": "2026-04-01",
+      "notes": "OpenStreetMap-sourced NYC cafe row for the Atlas demo dataset. Amenities are demo curation fields."
+    },
+    {
+      "name": "St Kilda Coffee",
+      "type": "Coffee Shop",
+      "neighborhood": "Manhattan/Brooklyn",
+      "address": "211 8th Avenue, New York, NY 10011",
+      "lat": 40.74397,
+      "lng": -73.99971,
+      "status": "Want to Try",
+      "amenities": [
+        "Power Outlets"
+      ],
+      "website": "https://www.stkildacoffee.com/",
+      "lastVisit": "2026-02-23",
+      "notes": "OpenStreetMap-sourced NYC cafe row for the Atlas demo dataset. Amenities are demo curation fields."
+    },
+    {
+      "name": "Starbucks - Battery Park Plaza",
+      "type": "Coffee Shop",
+      "neighborhood": "Manhattan/Brooklyn",
+      "address": "1 Battery Park Plaza, New York, NY 10004",
+      "lat": 40.703277,
+      "lng": -74.014134,
+      "status": "Want to Try",
+      "amenities": [
+        "Free WiFi",
+        "Power Outlets"
+      ],
+      "website": "https://www.starbucks.com/store-locator/store/16686/state-st-pearl-streets-1-battery-park-plaza-new-york-ny-100041405-us",
+      "lastVisit": "2026-05-17",
+      "notes": "OpenStreetMap-sourced NYC cafe row for the Atlas demo dataset. Amenities are demo curation fields."
+    },
+    {
+      "name": "Starbucks - Broadway",
+      "type": "Coffee Shop",
+      "neighborhood": "Manhattan/Brooklyn",
+      "address": "2525 Broadway, New York, NY 10025",
+      "lat": 40.793842,
+      "lng": -73.97277,
+      "status": "Want to Try",
+      "amenities": [
+        "Free WiFi"
+      ],
+      "website": "https://www.starbucks.com/store-locator/store/13552/95th-broadway-2525-broadway-new-york-ny-100256924-us",
+      "lastVisit": "2026-04-10",
+      "notes": "OpenStreetMap-sourced NYC cafe row for the Atlas demo dataset. Amenities are demo curation fields."
+    },
+    {
+      "name": "Starbucks - Main Street",
+      "type": "Coffee Shop",
+      "neighborhood": "Brooklyn/Queens",
+      "address": "455 Main Street, New York, NY 10044",
+      "lat": 40.759305,
+      "lng": -73.952923,
+      "status": "Want to Try",
+      "amenities": [
+        "Power Outlets"
+      ],
+      "website": "https://www.starbucks.com/store-locator/store/7098/roosevelt-island-455-main-street-new-york-ny-100440192-us",
+      "lastVisit": "2026-03-04",
+      "notes": "OpenStreetMap-sourced NYC cafe row for the Atlas demo dataset. Amenities are demo curation fields."
+    },
+    {
+      "name": "Starbucks - 5th Avenue",
+      "type": "Coffee Shop",
+      "neighborhood": "Manhattan/Brooklyn",
+      "address": "373 5th Avenue, New York, NY 10016",
+      "lat": 40.7491,
+      "lng": -73.983903,
+      "status": "Crowded",
+      "amenities": [
+        "Free WiFi",
+        "Power Outlets"
+      ],
+      "website": "https://www.starbucks.com/store-locator/store/8588/35th-5th-373-5th-avenue-new-york-ny-100163307-us",
+      "lastVisit": "2026-05-26",
+      "notes": "OpenStreetMap-sourced NYC cafe row for the Atlas demo dataset. Amenities are demo curation fields."
+    },
+    {
+      "name": "Starbucks - 5th Avenue 2",
+      "type": "Coffee Shop",
+      "neighborhood": "Manhattan/Brooklyn",
+      "address": "350 5th Avenue, New York, NY 10118",
+      "lat": 40.748185,
+      "lng": -73.985687,
+      "status": "Crowded",
+      "amenities": [
+        "Free WiFi"
+      ],
+      "website": "https://www.starbucks.com/store-locator/store/7549/34th-st-empire-state-building-350-fifth-avenue-new-york-ny-101180110-us",
+      "lastVisit": "2026-04-19",
+      "notes": "OpenStreetMap-sourced NYC cafe row for the Atlas demo dataset. Amenities are demo curation fields."
+    },
+    {
+      "name": "Starbucks - Broadway 2",
+      "type": "Coffee Shop",
+      "neighborhood": "Manhattan/Brooklyn",
+      "address": "665 Broadway, New York, NY",
+      "lat": 40.727207,
+      "lng": -73.995481,
+      "status": "Crowded",
+      "amenities": [
+        "Power Outlets"
+      ],
+      "website": "https://www.starbucks.com/store-locator/store/16853/broadway-and-bond-665-broadway-new-york-ny-100122300-us",
+      "lastVisit": "2026-03-13",
+      "notes": "OpenStreetMap-sourced NYC cafe row for the Atlas demo dataset. Amenities are demo curation fields."
+    },
+    {
+      "name": "Starbucks - Chambers Street",
+      "type": "Coffee Shop",
+      "neighborhood": "Manhattan/Brooklyn",
+      "address": "125 Chambers Street, New York, NY 10007",
+      "lat": 40.715522,
+      "lng": -74.008983,
+      "status": "Skip",
+      "amenities": [
+        "Free WiFi",
+        "Power Outlets"
+      ],
+      "website": "https://www.starbucks.com/store-locator/store/8692/chambers-and-west-broadway-125-chambers-street-new-york-ny-100071331-us",
+      "lastVisit": "2026-06-04",
+      "notes": "OpenStreetMap-sourced NYC cafe row for the Atlas demo dataset. Amenities are demo curation fields."
+    },
+    {
+      "name": "Starbucks - Park Avenue",
+      "type": "Coffee Shop",
+      "neighborhood": "Manhattan/Brooklyn",
+      "address": "90 Park Avenue, New York, NY 10016",
+      "lat": 40.7505,
+      "lng": -73.97916,
+      "status": "Skip",
+      "amenities": [
+        "Free WiFi"
+      ],
+      "website": "https://www.starbucks.com/store-locator/store/14439/39th-park-90-park-ave-new-york-ny-10016-us",
+      "lastVisit": "2026-04-28",
+      "notes": "OpenStreetMap-sourced NYC cafe row for the Atlas demo dataset. Amenities are demo curation fields."
+    },
+    {
+      "name": "Starbucks - Columbus Circle",
+      "type": "Coffee Shop",
+      "neighborhood": "Manhattan/Brooklyn",
+      "address": "4 Columbus Circle, New York, NY 10019",
+      "lat": 40.767511,
+      "lng": -73.982943,
+      "status": "Favorite",
+      "amenities": [
+        "Power Outlets"
+      ],
+      "website": "https://www.starbucks.com/store-locator/store/13904/58th-eighth-4-columbus-circle-new-york-ny-100191100-us",
+      "lastVisit": "2026-03-22",
+      "notes": "OpenStreetMap-sourced NYC cafe row for the Atlas demo dataset. Amenities are demo curation fields."
+    },
+    {
+      "name": "Starbucks - Central Park South",
+      "type": "Coffee Shop",
+      "neighborhood": "Manhattan/Brooklyn",
+      "address": "240 Central Park South, New York, NY 10019",
+      "lat": 40.767634,
+      "lng": -73.981287,
+      "status": "Favorite",
+      "amenities": [
+        "Free WiFi",
+        "Power Outlets"
+      ],
+      "website": "https://www.starbucks.com/store-locator/store/1030514/59th-broadway-240-central-park-south-new-york-ny-100191457-us",
+      "lastVisit": "2026-02-13",
+      "notes": "OpenStreetMap-sourced NYC cafe row for the Atlas demo dataset. Amenities are demo curation fields."
+    },
+    {
+      "name": "Starbucks - Broadway 3",
+      "type": "Coffee Shop",
+      "neighborhood": "Manhattan/Brooklyn",
+      "address": "1500 Broadway, New York, NY 10036",
+      "lat": 40.756662,
+      "lng": -73.985868,
+      "status": "Favorite",
+      "amenities": [
+        "Free WiFi"
+      ],
+      "website": "https://www.starbucks.com/store-locator/store/13918/43rd-broadway-1500-broadway-new-york-ny-100364015-us",
+      "lastVisit": "2026-05-07",
+      "notes": "OpenStreetMap-sourced NYC cafe row for the Atlas demo dataset. Amenities are demo curation fields."
+    },
+    {
+      "name": "Starbucks - Madison Avenue",
+      "type": "Coffee Shop",
+      "neighborhood": "Manhattan/Brooklyn",
+      "address": "295 Madison Avenue, New York, NY 10017",
+      "lat": 40.751923,
+      "lng": -73.979722,
+      "status": "Favorite",
+      "amenities": [
+        "Power Outlets"
+      ],
+      "website": null,
+      "lastVisit": "2026-03-31",
+      "notes": "OpenStreetMap-sourced NYC cafe row for the Atlas demo dataset. Amenities are demo curation fields."
+    },
+    {
+      "name": "Starbucks - Madison Avenue 2",
+      "type": "Coffee Shop",
+      "neighborhood": "Manhattan/Brooklyn",
+      "address": "340 Madison Avenue, New York, NY 10173",
+      "lat": 40.75389,
+      "lng": -73.97877,
+      "status": "Go-To",
+      "amenities": [
+        "Free WiFi",
+        "Power Outlets"
+      ],
+      "website": "https://www.starbucks.com/store-locator/store/16970/44th-madison-340-madison-avenue-new-york-ny-10173-us",
+      "lastVisit": "2026-02-22",
+      "notes": "OpenStreetMap-sourced NYC cafe row for the Atlas demo dataset. Amenities are demo curation fields."
+    },
+    {
+      "name": "Starbucks - 2nd Avenue",
+      "type": "Coffee Shop",
+      "neighborhood": "Manhattan/Brooklyn",
+      "address": "585 2nd Avenue, New York, NY 10016",
+      "lat": 40.743687,
+      "lng": -73.976931,
+      "status": "Go-To",
+      "amenities": [
+        "Free WiFi"
+      ],
+      "website": "https://www.starbucks.com/store-locator/store/15875/32nd-2nd-585-2nd-avenue-new-york-ny-10016-us",
+      "lastVisit": "2026-05-16",
+      "notes": "OpenStreetMap-sourced NYC cafe row for the Atlas demo dataset. Amenities are demo curation fields."
+    },
+    {
+      "name": "Starbucks - Frederick Douglass Boulevard",
+      "type": "Coffee Shop",
+      "neighborhood": "Brooklyn/Queens",
+      "address": "2195 Frederick Douglass Boulevard, New York, NY 10026",
+      "lat": 40.80593,
+      "lng": -73.954529,
+      "status": "Go-To",
+      "amenities": [
+        "Power Outlets"
+      ],
+      "website": "https://www.starbucks.com/store-locator/store/10763/118th-frederick-douglas-blvd-2195-frederick-douglas-boulevard-new-york-ny-10026",
+      "lastVisit": "2026-04-09",
+      "notes": "OpenStreetMap-sourced NYC cafe row for the Atlas demo dataset. Amenities are demo curation fields."
+    },
+    {
+      "name": "Starbucks - Park Avenue 2",
+      "type": "Coffee Shop",
+      "neighborhood": "Manhattan/Brooklyn",
+      "address": "280 Park Avenue, New York, NY 10172",
+      "lat": 40.75623,
+      "lng": -73.975093,
+      "status": "Go-To",
+      "amenities": [
+        "Free WiFi",
+        "Power Outlets"
+      ],
+      "website": "https://www.starbucks.com/store-locator/store/1024957/secure-access-277-park-ave-277-park-ave-17th-floor-post-security-new-york-ny-",
+      "lastVisit": "2026-03-03",
+      "notes": "OpenStreetMap-sourced NYC cafe row for the Atlas demo dataset. Amenities are demo curation fields."
+    },
+    {
+      "name": "Starbucks - Columbus Avenue",
+      "type": "Coffee Shop",
+      "neighborhood": "Manhattan/Brooklyn",
+      "address": "805 Columbus Avenue, New York, NY 10025",
+      "lat": 40.795232,
+      "lng": -73.965539,
+      "status": "Go-To",
+      "amenities": [
+        "Free WiFi"
+      ],
+      "website": "https://www.starbucks.com/store-locator/store/89150/100th-columbus-805-columbus-avenue-new-york-ny-100255966-us",
+      "lastVisit": "2026-05-25",
+      "notes": "OpenStreetMap-sourced NYC cafe row for the Atlas demo dataset. Amenities are demo curation fields."
+    },
+    {
+      "name": "Starbucks - Greenwich Avenue",
+      "type": "Coffee Shop",
+      "neighborhood": "Manhattan/Brooklyn",
+      "address": "122 Greenwich Avenue, New York, NY 10011",
+      "lat": 40.739372,
+      "lng": -74.002526,
+      "status": "Go-To",
+      "amenities": [
+        "Power Outlets"
+      ],
+      "website": "https://www.starbucks.com/store-locator/store/35545/8th-ave-just-south-of-14th-st-122-greenwich-avenue-space-a-new-york-ny-100117710",
+      "lastVisit": "2026-04-18",
+      "notes": "OpenStreetMap-sourced NYC cafe row for the Atlas demo dataset. Amenities are demo curation fields."
+    },
+    {
+      "name": "Starbucks - Hudson Street",
+      "type": "Coffee Shop",
+      "neighborhood": "Manhattan/Brooklyn",
+      "address": "518 Hudson Street, New York, NY 10014",
+      "lat": 40.733795,
+      "lng": -74.006464,
+      "status": "Want to Try",
+      "amenities": [
+        "Free WiFi",
+        "Power Outlets"
+      ],
+      "website": null,
+      "lastVisit": "2026-03-12",
+      "notes": "OpenStreetMap-sourced NYC cafe row for the Atlas demo dataset. Amenities are demo curation fields."
+    },
+    {
+      "name": "Starbucks - Delancey Street",
+      "type": "Coffee Shop",
+      "neighborhood": "Manhattan/Brooklyn",
+      "address": "80 Delancey Street, New York, NY 10002",
+      "lat": 40.719348,
+      "lng": -73.989998,
+      "status": "Want to Try",
+      "amenities": [
+        "Free WiFi"
+      ],
+      "website": "https://www.starbucks.com/store-locator/store/9589/allen-delancey-80-delancey-street-new-york-ny-100023133-us",
+      "lastVisit": "2026-06-03",
+      "notes": "OpenStreetMap-sourced NYC cafe row for the Atlas demo dataset. Amenities are demo curation fields."
+    },
+    {
+      "name": "Starbucks - River Road",
+      "type": "Coffee Shop",
+      "neighborhood": "Manhattan/Brooklyn",
+      "address": "457 River Road, Edgewater Commons, NY 07020",
+      "lat": 40.813095,
+      "lng": -73.984347,
+      "status": "Want to Try",
+      "amenities": [
+        "Power Outlets"
+      ],
+      "website": "https://www.starbucks.com/store-locator/store/11601/edgewater-457-river-road-edgewater-nj-070201145-us",
+      "lastVisit": "2026-04-27",
+      "notes": "OpenStreetMap-sourced NYC cafe row for the Atlas demo dataset. Amenities are demo curation fields."
+    },
+    {
+      "name": "Starbucks - Lemoine Avenue",
+      "type": "Coffee Shop",
+      "neighborhood": "Manhattan/Brooklyn",
+      "address": "2160 Lemoine Avenue, Fort Lee, NY 07024",
+      "lat": 40.856133,
+      "lng": -73.965412,
+      "status": "Want to Try",
+      "amenities": [
+        "Free WiFi",
+        "Power Outlets"
+      ],
+      "website": "https://www.starbucks.com/store-locator/store/6819/acme-fort-lee-1066-2160-lemoine-ave-fort-lee-nj-070246002-us",
+      "lastVisit": "2026-03-21",
+      "notes": "OpenStreetMap-sourced NYC cafe row for the Atlas demo dataset. Amenities are demo curation fields."
+    },
+    {
+      "name": "Starbucks - Broadway 4",
+      "type": "Coffee Shop",
+      "neighborhood": "Manhattan/Brooklyn",
+      "address": "2252 Broadway, New York, NY 10024",
+      "lat": 40.784927,
+      "lng": -73.978801,
+      "status": "Want to Try",
+      "amenities": [
+        "Free WiFi"
+      ],
+      "website": "https://www.starbucks.com/store-locator/store/11483/81st-broadway-2252-broadway-new-york-ny-100245805-us",
+      "lastVisit": "2026-02-12",
+      "notes": "OpenStreetMap-sourced NYC cafe row for the Atlas demo dataset. Amenities are demo curation fields."
+    },
+    {
+      "name": "Starbucks - Broadway 5",
+      "type": "Coffee Shop",
+      "neighborhood": "Manhattan/Brooklyn",
+      "address": "2 Broadway, New York, NY 10004",
+      "lat": 40.704382,
+      "lng": -74.013047,
+      "status": "Crowded",
+      "amenities": [
+        "Power Outlets"
+      ],
+      "website": "https://www.starbucks.com/store-locator/store/12804/2-broadway-2-broadway-new-york-ny-100042207-us",
+      "lastVisit": "2026-05-06",
+      "notes": "OpenStreetMap-sourced NYC cafe row for the Atlas demo dataset. Amenities are demo curation fields."
+    },
+    {
+      "name": "Starbucks - West 225th Street",
+      "type": "Coffee Shop",
+      "neighborhood": "Brooklyn/Queens",
+      "address": "40 West 225th Street, New York, NY 10463",
+      "lat": 40.873542,
+      "lng": -73.908492,
+      "status": "Crowded",
+      "amenities": [
+        "Free WiFi",
+        "Power Outlets"
+      ],
+      "website": "https://www.starbucks.com/store-locator/store/12556/target-bronx-riverdale-1798-40-w-225th-st-new-york-ny-104637016-us",
+      "lastVisit": "2026-03-30",
+      "notes": "OpenStreetMap-sourced NYC cafe row for the Atlas demo dataset. Amenities are demo curation fields."
+    },
+    {
+      "name": "Starbucks - Fulton Street",
+      "type": "Coffee Shop",
+      "neighborhood": "Manhattan/Brooklyn",
+      "address": "130 Fulton Street, New York, NY 10038",
+      "lat": 40.710192,
+      "lng": -74.00797,
+      "status": "Crowded",
+      "amenities": [
+        "Free WiFi"
+      ],
+      "website": "https://www.starbucks.com/store-locator/store/10655/nassau-fulton-130-fulton-street-new-york-ny-100382504-us",
+      "lastVisit": "2026-02-21",
+      "notes": "OpenStreetMap-sourced NYC cafe row for the Atlas demo dataset. Amenities are demo curation fields."
+    },
+    {
+      "name": "Starbucks - Spring Street",
+      "type": "Coffee Shop",
+      "neighborhood": "Manhattan/Brooklyn",
+      "address": "72 Spring Street, New York, NY 10002",
+      "lat": 40.722517,
+      "lng": -73.997904,
+      "status": "Skip",
+      "amenities": [
+        "Power Outlets"
+      ],
+      "website": "https://www.starbucks.com/store-locator/store/9347/spring-street-at-crosby-st-72-spring-street-new-york-ny-100124019-us",
+      "lastVisit": "2026-05-15",
+      "notes": "OpenStreetMap-sourced NYC cafe row for the Atlas demo dataset. Amenities are demo curation fields."
+    },
+    {
+      "name": "Starbucks - Eighth Avenue",
+      "type": "Coffee Shop",
+      "neighborhood": "Manhattan/Brooklyn",
+      "address": "625 Eighth Avenue, Port Authority, NY 10018",
+      "lat": 40.757236,
+      "lng": -73.989117,
+      "status": "Skip",
+      "amenities": [
+        "Free WiFi",
+        "Power Outlets"
+      ],
+      "website": "https://www.starbucks.com/store-locator/store/1005154/port-authority-south-wing-625-eighth-avenue-new-york-ny-100181415-us",
+      "lastVisit": "2026-04-08",
+      "notes": "OpenStreetMap-sourced NYC cafe row for the Atlas demo dataset. Amenities are demo curation fields."
+    },
+    {
+      "name": "Starbucks - Broad Street",
+      "type": "Coffee Shop",
+      "neighborhood": "Manhattan/Brooklyn",
+      "address": "55 Broad Street, New York, NY 10004",
+      "lat": 40.705173,
+      "lng": -74.011298,
+      "status": "Favorite",
+      "amenities": [
+        "Free WiFi"
+      ],
+      "website": "https://www.starbucks.com/store-locator/store/16214/55-broad-street-55-broad-street-new-york-ny-100042501-us",
+      "lastVisit": "2026-03-02",
+      "notes": "OpenStreetMap-sourced NYC cafe row for the Atlas demo dataset. Amenities are demo curation fields."
+    },
+    {
+      "name": "Starbucks - Pearl Street",
+      "type": "Coffee Shop",
+      "neighborhood": "Manhattan/Brooklyn",
+      "address": "110 Pearl Street, New York, NY 10005",
+      "lat": 40.704607,
+      "lng": -74.009116,
+      "status": "Favorite",
+      "amenities": [
+        "Power Outlets"
+      ],
+      "website": "https://www.starbucks.com/store-locator/store/7912/pearl-hanover-110-pearl-street-new-york-ny-100053510-us",
+      "lastVisit": "2026-05-24",
+      "notes": "OpenStreetMap-sourced NYC cafe row for the Atlas demo dataset. Amenities are demo curation fields."
+    },
+    {
+      "name": "Starbucks - Lemoine Avenue 2",
+      "type": "Coffee Shop",
+      "neighborhood": "Manhattan/Brooklyn",
+      "address": "1605 Lemoine Avenue, Whitman Plaza, NY 07024",
+      "lat": 40.849428,
+      "lng": -73.970783,
+      "status": "Favorite",
+      "amenities": [
+        "Free WiFi",
+        "Power Outlets"
+      ],
+      "website": "https://www.starbucks.com/store-locator/store/7256-882/fort-lee-linwood-plaza-136-38-linwood-plaza-fort-lee-nj-070243701-us",
+      "lastVisit": "2026-04-17",
+      "notes": "OpenStreetMap-sourced NYC cafe row for the Atlas demo dataset. Amenities are demo curation fields."
+    },
+    {
+      "name": "Starbucks - 1st Avenue",
+      "type": "Coffee Shop",
+      "neighborhood": "Manhattan/Brooklyn",
+      "address": "219 1st Avenue, New York, NY 10003",
+      "lat": 40.730832,
+      "lng": -73.983183,
+      "status": "Favorite",
+      "amenities": [
+        "Free WiFi"
+      ],
+      "website": "https://www.starbucks.com/store-locator/store/90278/13-th-1st-219-first-avenue-new-york-ny-100033072-us",
+      "lastVisit": "2026-03-11",
+      "notes": "OpenStreetMap-sourced NYC cafe row for the Atlas demo dataset. Amenities are demo curation fields."
+    },
+    {
+      "name": "Starbucks - Broadway 6",
+      "type": "Coffee Shop",
+      "neighborhood": "Manhattan/Brooklyn",
+      "address": "1889 Broadway, New York, NY 10023",
+      "lat": 40.771384,
+      "lng": -73.982472,
+      "status": "Go-To",
+      "amenities": [
+        "Power Outlets"
+      ],
+      "website": "https://www.starbucks.com/store-locator/store/17786/63rd-broadway-1889-broadway-new-york-ny-100237005-us",
+      "lastVisit": "2026-06-02",
+      "notes": "OpenStreetMap-sourced NYC cafe row for the Atlas demo dataset. Amenities are demo curation fields."
+    },
+    {
+      "name": "Starbucks - 1st Avenue 2",
+      "type": "Coffee Shop",
+      "neighborhood": "Brooklyn/Queens",
+      "address": "1631 1st Avenue, New York, NY 10028",
+      "lat": 40.776143,
+      "lng": -73.950207,
+      "status": "Go-To",
+      "amenities": [
+        "Free WiFi",
+        "Power Outlets"
+      ],
+      "website": "https://www.starbucks.com/store-locator/store/12482/85th-first-1631-1st-ave-new-york-ny-100284304-us",
+      "lastVisit": "2026-04-26",
+      "notes": "OpenStreetMap-sourced NYC cafe row for the Atlas demo dataset. Amenities are demo curation fields."
+    },
+    {
+      "name": "Starbucks - Lexington Avenue",
+      "type": "Coffee Shop",
+      "neighborhood": "Brooklyn/Queens",
+      "address": "1491 Lexington Avenue, New York, NY 10029",
+      "lat": 40.785947,
+      "lng": -73.950703,
+      "status": "Go-To",
+      "amenities": [
+        "Free WiFi"
+      ],
+      "website": "https://www.starbucks.com/store-locator/store/19114/96th-lexington-1491-lexington-avenue-new-york-ny-100297307-us",
+      "lastVisit": "2026-03-20",
+      "notes": "OpenStreetMap-sourced NYC cafe row for the Atlas demo dataset. Amenities are demo curation fields."
+    },
+    {
+      "name": "Starbucks - Grove Street",
+      "type": "Coffee Shop",
+      "neighborhood": "Manhattan/Brooklyn",
+      "address": "74 Grove Street, New York, NY 10014",
+      "lat": 40.733212,
+      "lng": -74.002686,
+      "status": "Go-To",
+      "amenities": [
+        "Power Outlets"
+      ],
+      "website": "https://www.starbucks.com/store-locator/store/18506/7th-ave-at-grove-street-72-grove-street-new-york-ny-100143557-us",
+      "lastVisit": "2026-02-11",
+      "notes": "OpenStreetMap-sourced NYC cafe row for the Atlas demo dataset. Amenities are demo curation fields."
+    },
+    {
+      "name": "Starbucks - 8th Avenue",
+      "type": "Coffee Shop",
+      "neighborhood": "Manhattan/Brooklyn",
+      "address": "124 8th Avenue, New York, NY 10011",
+      "lat": 40.741105,
+      "lng": -74.001261,
+      "status": "Go-To",
+      "amenities": [
+        "Free WiFi",
+        "Power Outlets"
+      ],
+      "website": "https://www.starbucks.com/store-locator/store/16006/8th-16th-124-eighth-avenue-new-york-ny-100115108-us",
+      "lastVisit": "2026-05-05",
+      "notes": "OpenStreetMap-sourced NYC cafe row for the Atlas demo dataset. Amenities are demo curation fields."
+    },
+    {
+      "name": "Starbucks - West 23rd Street",
+      "type": "Coffee Shop",
+      "neighborhood": "Manhattan/Brooklyn",
+      "address": "300 West 23rd Street, New York, NY 10011",
+      "lat": 40.745188,
+      "lng": -73.998842,
+      "status": "Go-To",
+      "amenities": [
+        "Free WiFi"
+      ],
+      "website": "https://www.starbucks.com/store-locator/store/13905/west-23rd-and-8th-300-w-23rd-st-new-york-ny-100112210-us",
+      "lastVisit": "2026-03-29",
+      "notes": "OpenStreetMap-sourced NYC cafe row for the Atlas demo dataset. Amenities are demo curation fields."
+    },
+    {
+      "name": "Starbucks - Columbus Avenue 2",
+      "type": "Coffee Shop",
+      "neighborhood": "Manhattan/Brooklyn",
+      "address": "2 Columbus Avenue, New York, NY 10023",
+      "lat": 40.769407,
+      "lng": -73.984893,
+      "status": "Want to Try",
+      "amenities": [
+        "Power Outlets"
+      ],
+      "website": "https://www.starbucks.com/store-locator/store/8735/59th-columbus-2-columbus-avenue-new-york-ny-100236924-us",
+      "lastVisit": "2026-02-20",
+      "notes": "OpenStreetMap-sourced NYC cafe row for the Atlas demo dataset. Amenities are demo curation fields."
+    },
+    {
+      "name": "Starbucks - Smith Street",
+      "type": "Coffee Shop",
+      "neighborhood": "Manhattan/Brooklyn",
+      "address": "164 Smith Street, Brooklyn, NY 11201",
+      "lat": 40.68622,
+      "lng": -73.990961,
+      "status": "Want to Try",
+      "amenities": [
+        "Free WiFi",
+        "Power Outlets"
+      ],
+      "website": "https://www.starbucks.com/store-locator/store/17069/smith-st-wyckoff-st-164-smith-street-brooklyn-ny-112016303-us",
+      "lastVisit": "2026-05-14",
+      "notes": "OpenStreetMap-sourced NYC cafe row for the Atlas demo dataset. Amenities are demo curation fields."
+    },
+    {
+      "name": "Starbucks - University Place",
+      "type": "Coffee Shop",
+      "neighborhood": "Manhattan/Brooklyn",
+      "address": "111 University Place, New York, NY 10003",
+      "lat": 40.734253,
+      "lng": -73.992314,
+      "status": "Want to Try",
+      "amenities": [
+        "Free WiFi"
+      ],
+      "website": null,
+      "lastVisit": "2026-04-07",
+      "notes": "OpenStreetMap-sourced NYC cafe row for the Atlas demo dataset. Amenities are demo curation fields."
+    },
+    {
+      "name": "Starstruck Coffee",
+      "type": "Coffee Shop",
+      "neighborhood": "Manhattan/Brooklyn",
+      "address": "454 9th Avenue, New York, NY 10018",
+      "lat": 40.754189,
+      "lng": -73.995489,
+      "status": "Want to Try",
+      "amenities": [
+        "Power Outlets"
+      ],
+      "website": null,
+      "lastVisit": "2026-03-01",
+      "notes": "OpenStreetMap-sourced NYC cafe row for the Atlas demo dataset. Amenities are demo curation fields."
+    },
+    {
+      "name": "Sushi Star",
+      "type": "Cafe",
+      "neighborhood": "Manhattan/Brooklyn",
+      "address": "462 9th Avenue, New York, NY 10018",
+      "lat": 40.754437,
+      "lng": -73.995301,
+      "status": "Want to Try",
+      "amenities": [
+        "Free WiFi",
+        "Power Outlets"
+      ],
+      "website": "https://www.sushistar.com",
+      "lastVisit": "2026-05-23",
+      "notes": "OpenStreetMap-sourced NYC cafe row for the Atlas demo dataset. Amenities are demo curation fields."
+    },
+    {
+      "name": "Swallow Cafe",
+      "type": "Coffee Shop",
+      "neighborhood": "Brooklyn/Queens",
+      "address": "49 Bogart Street, Brooklyn, NY 11206",
+      "lat": 40.705441,
+      "lng": -73.933463,
+      "status": "Crowded",
+      "amenities": [
+        "Free WiFi"
+      ],
+      "website": null,
+      "lastVisit": "2026-04-16",
+      "notes": "OpenStreetMap-sourced NYC cafe row for the Atlas demo dataset. Amenities are demo curation fields."
+    },
+    {
+      "name": "Sweetleaf",
+      "type": "Coffee Shop",
+      "neighborhood": "Brooklyn/Queens",
+      "address": "4615 Center Boulevard, New York, NY 11109",
+      "lat": 40.747141,
+      "lng": -73.956043,
+      "status": "Crowded",
+      "amenities": [
+        "Power Outlets"
+      ],
+      "website": "http://www.sweetleaflic.com/",
+      "lastVisit": "2026-03-10",
+      "notes": "OpenStreetMap-sourced NYC cafe row for the Atlas demo dataset. Amenities are demo curation fields."
+    },
+    {
+      "name": "The Bean - 3rd Avenue",
+      "type": "Coffee Shop",
+      "neighborhood": "Manhattan/Brooklyn",
+      "address": "31 3rd Avenue, New York, NY 10003",
+      "lat": 40.729773,
+      "lng": -73.98948,
+      "status": "Crowded",
+      "amenities": [
+        "Free WiFi",
+        "Power Outlets"
+      ],
+      "website": null,
+      "lastVisit": "2026-06-01",
+      "notes": "OpenStreetMap-sourced NYC cafe row for the Atlas demo dataset. Amenities are demo curation fields."
+    },
+    {
+      "name": "The Crossbar",
+      "type": "Coffee Shop",
+      "neighborhood": "Manhattan/Brooklyn",
+      "address": "250 West 86th Street, New York, NY 10024",
+      "lat": 40.78838,
+      "lng": -73.977098,
+      "status": "Skip",
+      "amenities": [
+        "Free WiFi"
+      ],
+      "website": "https://www.crossbarnyc.com",
+      "lastVisit": "2026-04-25",
+      "notes": "OpenStreetMap-sourced NYC cafe row for the Atlas demo dataset. Amenities are demo curation fields."
+    },
+    {
+      "name": "The Donut Pub",
+      "type": "Cafe",
+      "neighborhood": "Manhattan/Brooklyn",
+      "address": "203 West 14th Street, New York, NY 10001",
+      "lat": 40.738845,
+      "lng": -73.999814,
+      "status": "Skip",
+      "amenities": [
+        "Power Outlets"
+      ],
+      "website": "https://www.donutpub.com/location/west-village",
+      "lastVisit": "2026-03-19",
+      "notes": "OpenStreetMap-sourced NYC cafe row for the Atlas demo dataset. Amenities are demo curation fields."
+    },
+    {
+      "name": "The West",
+      "type": "Cafe",
+      "neighborhood": "Brooklyn/Queens",
+      "address": "379 Union Avenue, New York, NY 11211",
+      "lat": 40.711785,
+      "lng": -73.95144,
+      "status": "Favorite",
+      "amenities": [
+        "Free WiFi",
+        "Power Outlets"
+      ],
+      "website": "http://thewestbrooklyn.com/",
+      "lastVisit": "2026-06-10",
+      "notes": "OpenStreetMap-sourced NYC cafe row for the Atlas demo dataset. Amenities are demo curation fields."
+    },
+    {
+      "name": "Think Coffee - Bleecker Street",
+      "type": "Coffee Shop",
+      "neighborhood": "Manhattan/Brooklyn",
+      "address": "1 Bleecker Street, New York, NY",
+      "lat": 40.725407,
+      "lng": -73.99239,
+      "status": "Favorite",
+      "amenities": [
+        "Free WiFi"
+      ],
+      "website": "https://www.thinkcoffee.com/",
+      "lastVisit": "2026-05-04",
+      "notes": "OpenStreetMap-sourced NYC cafe row for the Atlas demo dataset. Amenities are demo curation fields."
+    },
+    {
+      "name": "Think Coffee - 4th Avenue",
+      "type": "Coffee Shop",
+      "neighborhood": "Manhattan/Brooklyn",
+      "address": "123 4th Avenue, New York, NY 10003",
+      "lat": 40.733002,
+      "lng": -73.98977,
+      "status": "Favorite",
+      "amenities": [
+        "Power Outlets"
+      ],
+      "website": "https://www.thinkcoffee.com/",
+      "lastVisit": "2026-03-28",
+      "notes": "OpenStreetMap-sourced NYC cafe row for the Atlas demo dataset. Amenities are demo curation fields."
+    },
+    {
+      "name": "Think Coffee - 8th Avenue",
+      "type": "Coffee Shop",
+      "neighborhood": "Manhattan/Brooklyn",
+      "address": "73 8th Avenue, New York, NY 10014",
+      "lat": 40.739495,
+      "lng": -74.002986,
+      "status": "Favorite",
+      "amenities": [
+        "Free WiFi",
+        "Power Outlets"
+      ],
+      "website": "http://thinkcoffeenyc.com/",
+      "lastVisit": "2026-02-19",
+      "notes": "OpenStreetMap-sourced NYC cafe row for the Atlas demo dataset. Amenities are demo curation fields."
+    },
+    {
+      "name": "Toasties",
+      "type": "Cafe",
+      "neighborhood": "Manhattan/Brooklyn",
+      "address": "6 East 48th Street, New York, NY",
+      "lat": 40.757084,
+      "lng": -73.977893,
+      "status": "Go-To",
+      "amenities": [
+        "Free WiFi"
+      ],
+      "website": "http://www.toastiesnyc.com/",
+      "lastVisit": "2026-05-13",
+      "notes": "OpenStreetMap-sourced NYC cafe row for the Atlas demo dataset. Amenities are demo curation fields."
+    },
+    {
+      "name": "Uro Cafe",
+      "type": "Coffee Shop",
+      "neighborhood": "Brooklyn/Queens",
+      "address": "277 Driggs Avenue, New York, NY",
+      "lat": 40.722466,
+      "lng": -73.948822,
+      "status": "Go-To",
+      "amenities": [
+        "Power Outlets"
+      ],
+      "website": null,
+      "lastVisit": "2026-04-06",
+      "notes": "OpenStreetMap-sourced NYC cafe row for the Atlas demo dataset. Amenities are demo curation fields."
+    },
+    {
+      "name": "Vinny’s Gluten-Free Kitchen",
+      "type": "Cafe",
+      "neighborhood": "Manhattan/Brooklyn",
+      "address": "201 West 14th Street, New York, NY 10003",
+      "lat": 40.738806,
+      "lng": -73.999745,
+      "status": "Go-To",
+      "amenities": [
+        "Free WiFi",
+        "Power Outlets"
+      ],
+      "website": null,
+      "lastVisit": "2026-02-28",
+      "notes": "OpenStreetMap-sourced NYC cafe row for the Atlas demo dataset. Amenities are demo curation fields."
+    },
+    {
+      "name": "Whole Green",
+      "type": "Cafe",
+      "neighborhood": "Manhattan/Brooklyn",
+      "address": "35 7th Avenue, New York, NY 10011",
+      "lat": 40.737584,
+      "lng": -74.000144,
+      "status": "Go-To",
+      "amenities": [
+        "Free WiFi"
+      ],
+      "website": null,
+      "lastVisit": "2026-05-22",
+      "notes": "OpenStreetMap-sourced NYC cafe row for the Atlas demo dataset. Amenities are demo curation fields."
+    },
+    {
+      "name": "Xing Fu Tang",
+      "type": "Tea Cafe",
+      "neighborhood": "Manhattan/Brooklyn",
+      "address": "133 2nd Avenue, New York, NY 10003",
+      "lat": 40.728772,
+      "lng": -73.987781,
+      "status": "Go-To",
+      "amenities": [
+        "Power Outlets"
+      ],
+      "website": "https://xingfutang.com",
+      "lastVisit": "2026-04-15",
+      "notes": "OpenStreetMap-sourced NYC cafe row for the Atlas demo dataset. Amenities are demo curation fields."
+    },
+    {
+      "name": "Yonah Shimmel Knish Bakery",
+      "type": "Cafe",
+      "neighborhood": "Manhattan/Brooklyn",
+      "address": "137 East Houston Street, New York, NY 10002",
+      "lat": 40.723186,
+      "lng": -73.990131,
+      "status": "Go-To",
+      "amenities": [
+        "Free WiFi",
+        "Power Outlets"
+      ],
+      "website": "http://www.knishery.com",
+      "lastVisit": "2026-03-09",
+      "notes": "OpenStreetMap-sourced NYC cafe row for the Atlas demo dataset. Amenities are demo curation fields."
+    },
+    {
+      "name": "Zucker's",
+      "type": "Cafe",
+      "neighborhood": "Manhattan/Brooklyn",
+      "address": "500 6th Avenue, New York, NY 10011",
+      "lat": 40.744781,
+      "lng": -73.998585,
+      "status": "Want to Try",
+      "amenities": [
+        "Free WiFi"
+      ],
+      "website": null,
+      "lastVisit": "2026-05-31",
+      "notes": "OpenStreetMap-sourced NYC cafe row for the Atlas demo dataset. Amenities are demo curation fields."
+    },
+    {
+      "name": "Zucker's Bagels & Smoked Fish",
+      "type": "Cafe",
+      "neighborhood": "Manhattan/Brooklyn",
+      "address": "370 Lexington Avenue, New York, NY 10017",
+      "lat": 40.750611,
+      "lng": -73.976824,
+      "status": "Want to Try",
+      "amenities": [
+        "Power Outlets"
+      ],
+      "website": "https://www.zuckersbagels.com",
+      "lastVisit": "2026-04-24",
+      "notes": "OpenStreetMap-sourced NYC cafe row for the Atlas demo dataset. Amenities are demo curation fields."
+    },
+    {
+      "name": "Andaz",
+      "type": "Cafe",
+      "neighborhood": "Manhattan/Brooklyn",
+      "address": "Near 40.75289, -73.98111, New York, NY",
+      "lat": 40.75289,
+      "lng": -73.981106,
+      "status": "Want to Try",
+      "amenities": [
+        "Free WiFi",
+        "Power Outlets"
+      ],
+      "website": null,
+      "lastVisit": "2026-03-18",
+      "notes": "OpenStreetMap-sourced NYC cafe row for the Atlas demo dataset. Amenities are demo curation fields."
+    },
+    {
+      "name": "Bagel and More",
+      "type": "Cafe",
+      "neighborhood": "Manhattan/Brooklyn",
+      "address": "Near 40.73849, -74.00001, New York, NY",
+      "lat": 40.738487,
+      "lng": -74.000007,
+      "status": "Want to Try",
+      "amenities": [
+        "Free WiFi"
+      ],
+      "website": null,
+      "lastVisit": "2026-06-09",
+      "notes": "OpenStreetMap-sourced NYC cafe row for the Atlas demo dataset. Amenities are demo curation fields."
+    },
+    {
+      "name": "Bean And Bean",
+      "type": "Cafe",
+      "neighborhood": "Manhattan/Brooklyn",
+      "address": "Near 40.70723, -74.01239, New York, NY",
+      "lat": 40.707231,
+      "lng": -74.012388,
+      "status": "Want to Try",
+      "amenities": [
+        "Power Outlets"
+      ],
+      "website": null,
+      "lastVisit": "2026-05-03",
+      "notes": "OpenStreetMap-sourced NYC cafe row for the Atlas demo dataset. Amenities are demo curation fields."
+    },
+    {
+      "name": "Black Fox Coffee",
+      "type": "Coffee Shop",
+      "neighborhood": "Manhattan/Brooklyn",
+      "address": "Near 40.76142, -73.97387, New York, NY",
+      "lat": 40.761421,
+      "lng": -73.973872,
+      "status": "Crowded",
+      "amenities": [
+        "Free WiFi",
+        "Power Outlets"
+      ],
+      "website": null,
+      "lastVisit": "2026-03-27",
+      "notes": "OpenStreetMap-sourced NYC cafe row for the Atlas demo dataset. Amenities are demo curation fields."
+    },
+    {
+      "name": "Blank Street Coffee",
+      "type": "Coffee Shop",
+      "neighborhood": "Manhattan/Brooklyn",
+      "address": "Near 40.68729, -73.97531, New York, NY",
+      "lat": 40.687288,
+      "lng": -73.975308,
+      "status": "Crowded",
+      "amenities": [
+        "Free WiFi"
+      ],
+      "website": "https://www.blankstreet.com/locations/new-york/LDBX6YWQTJ180-lafayette-and-s-elliot-pl",
+      "lastVisit": "2026-02-18",
+      "notes": "OpenStreetMap-sourced NYC cafe row for the Atlas demo dataset. Amenities are demo curation fields."
+    },
+    {
+      "name": "Blue Java",
+      "type": "Cafe",
+      "neighborhood": "Manhattan/Brooklyn",
+      "address": "Near 40.80950, -73.96029, New York, NY",
+      "lat": 40.809496,
+      "lng": -73.960288,
+      "status": "Crowded",
+      "amenities": [
+        "Power Outlets"
+      ],
+      "website": null,
+      "lastVisit": "2026-05-12",
+      "notes": "OpenStreetMap-sourced NYC cafe row for the Atlas demo dataset. Amenities are demo curation fields."
+    },
+    {
+      "name": "Brooklyn Bagel & Coffee Co.",
+      "type": "Coffee Shop",
+      "neighborhood": "Brooklyn/Queens",
+      "address": "Ditmars Boulevard, Astoria, NY 11105",
+      "lat": 40.774703,
+      "lng": -73.908448,
+      "status": "Skip",
+      "amenities": [
+        "Free WiFi",
+        "Power Outlets"
+      ],
+      "website": "https://bkbagel.com/",
+      "lastVisit": "2026-04-05",
+      "notes": "OpenStreetMap-sourced NYC cafe row for the Atlas demo dataset. Amenities are demo curation fields."
+    },
+    {
+      "name": "Brooklyn Tea",
+      "type": "Tea Cafe",
+      "neighborhood": "Brooklyn/Queens",
+      "address": "Near 40.68144, -73.93462, New York, NY",
+      "lat": 40.681438,
+      "lng": -73.934616,
+      "status": "Skip",
+      "amenities": [
+        "Free WiFi"
+      ],
+      "website": null,
+      "lastVisit": "2026-02-27",
+      "notes": "OpenStreetMap-sourced NYC cafe row for the Atlas demo dataset. Amenities are demo curation fields."
+    },
+    {
+      "name": "Central Cafe",
+      "type": "Cafe",
+      "neighborhood": "Manhattan/Brooklyn",
+      "address": "Near 40.75193, -73.97819, New York, NY",
+      "lat": 40.75193,
+      "lng": -73.978195,
+      "status": "Favorite",
+      "amenities": [
+        "Power Outlets"
+      ],
+      "website": null,
+      "lastVisit": "2026-05-21",
+      "notes": "OpenStreetMap-sourced NYC cafe row for the Atlas demo dataset. Amenities are demo curation fields."
+    },
+    {
+      "name": "Citrico Cafe & Agaveria Bar",
+      "type": "Cafe",
+      "neighborhood": "Brooklyn/Queens",
+      "address": "Near 40.75797, -73.92329, New York, NY",
+      "lat": 40.757973,
+      "lng": -73.92329,
+      "status": "Favorite",
+      "amenities": [
+        "Free WiFi",
+        "Power Outlets"
+      ],
+      "website": "https://www.citricocafe.com",
+      "lastVisit": "2026-04-14",
+      "notes": "OpenStreetMap-sourced NYC cafe row for the Atlas demo dataset. Amenities are demo curation fields."
+    },
+    {
+      "name": "City Market Cafe",
+      "type": "Cafe",
+      "neighborhood": "Manhattan/Brooklyn",
+      "address": "Near 40.77861, -73.96066, New York, NY",
+      "lat": 40.778611,
+      "lng": -73.960663,
+      "status": "Favorite",
+      "amenities": [
+        "Free WiFi"
+      ],
+      "website": null,
+      "lastVisit": "2026-03-08",
+      "notes": "OpenStreetMap-sourced NYC cafe row for the Atlas demo dataset. Amenities are demo curation fields."
+    },
+    {
+      "name": "Dancing Crane Cafe",
+      "type": "Cafe",
+      "neighborhood": "Manhattan/Brooklyn",
+      "address": "Near 40.76718, -73.97206, New York, NY",
+      "lat": 40.767183,
+      "lng": -73.972058,
+      "status": "Favorite",
+      "amenities": [
+        "Power Outlets"
+      ],
+      "website": null,
+      "lastVisit": "2026-05-30",
+      "notes": "OpenStreetMap-sourced NYC cafe row for the Atlas demo dataset. Amenities are demo curation fields."
+    },
+    {
+      "name": "El Parador Café",
+      "type": "Cafe",
+      "neighborhood": "Manhattan/Brooklyn",
+      "address": "Near 40.74447, -73.97472, New York, NY",
+      "lat": 40.744466,
+      "lng": -73.974719,
+      "status": "Go-To",
+      "amenities": [
+        "Free WiFi",
+        "Power Outlets"
+      ],
+      "website": "https://elparadorcafe.com/",
+      "lastVisit": "2026-04-23",
+      "notes": "OpenStreetMap-sourced NYC cafe row for the Atlas demo dataset. Amenities are demo curation fields."
+    },
+    {
+      "name": "GiGi Cafe",
+      "type": "Cafe",
+      "neighborhood": "Manhattan/Brooklyn",
+      "address": "Near 40.74684, -73.99339, New York, NY",
+      "lat": 40.746839,
+      "lng": -73.993386,
+      "status": "Go-To",
+      "amenities": [
+        "Free WiFi"
+      ],
+      "website": null,
+      "lastVisit": "2026-03-17",
+      "notes": "OpenStreetMap-sourced NYC cafe row for the Atlas demo dataset. Amenities are demo curation fields."
+    },
+    {
+      "name": "Gold N Honey",
+      "type": "Coffee Shop",
+      "neighborhood": "Brooklyn/Queens",
+      "address": "Near 40.77875, -73.91418, New York, NY",
+      "lat": 40.778754,
+      "lng": -73.914176,
+      "status": "Go-To",
+      "amenities": [
+        "Power Outlets"
+      ],
+      "website": null,
+      "lastVisit": "2026-06-08",
+      "notes": "OpenStreetMap-sourced NYC cafe row for the Atlas demo dataset. Amenities are demo curation fields."
+    },
+    {
+      "name": "Gregory Coffee",
+      "type": "Coffee Shop",
+      "neighborhood": "Manhattan/Brooklyn",
+      "address": "Near 40.75573, -73.98248, New York, NY",
+      "lat": 40.755734,
+      "lng": -73.982483,
+      "status": "Go-To",
+      "amenities": [
+        "Free WiFi",
+        "Power Outlets"
+      ],
+      "website": null,
+      "lastVisit": "2026-05-02",
+      "notes": "OpenStreetMap-sourced NYC cafe row for the Atlas demo dataset. Amenities are demo curation fields."
+    },
+    {
+      "name": "Koa Koa",
+      "type": "Cafe",
+      "neighborhood": "Manhattan/Brooklyn",
+      "address": "Near 40.84909, -73.97093, New York, NY",
+      "lat": 40.849092,
+      "lng": -73.970928,
+      "status": "Go-To",
+      "amenities": [
+        "Free WiFi"
+      ],
+      "website": null,
+      "lastVisit": "2026-03-26",
+      "notes": "OpenStreetMap-sourced NYC cafe row for the Atlas demo dataset. Amenities are demo curation fields."
+    },
+    {
+      "name": "La Colombe Coffee Roasters - 40.7235,-73.9913",
+      "type": "Coffee Shop",
+      "neighborhood": "Manhattan/Brooklyn",
+      "address": "Near 40.72351, -73.99133, New York, NY",
+      "lat": 40.723509,
+      "lng": -73.991329,
+      "status": "Go-To",
+      "amenities": [
+        "Power Outlets"
+      ],
+      "website": null,
+      "lastVisit": "2026-02-17",
+      "notes": "OpenStreetMap-sourced NYC cafe row for the Atlas demo dataset. Amenities are demo curation fields."
+    }
+  ]
+}

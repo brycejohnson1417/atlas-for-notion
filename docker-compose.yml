@@ -1,0 +1,14 @@
+services:
+  atlas:
+    build: .
+    ports:
+      - "3000:3000"
+    environment:
+      ATLAS_DATA_DIR: /data
+      DEMO_MODE: "false"
+      EMBED_SHARE_KEY: ${EMBED_SHARE_KEY:-dev-demo-key}
+    volumes:
+      - atlas-data:/data
+
+volumes:
+  atlas-data:
