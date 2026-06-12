@@ -41,28 +41,15 @@ function buildGeoJson(accounts: Account[], statuses: StatusMeta[]) {
   };
 }
 
-const rasterMapStyle: StyleSpecification = {
+const cleanMapStyle: StyleSpecification = {
   version: 8,
-  glyphs: "https://demotiles.maplibre.org/font/{fontstack}/{range}.pbf",
-  sources: {
-    osm: {
-      type: "raster",
-      tiles: ["https://tile.openstreetmap.org/{z}/{x}/{y}.png"],
-      tileSize: 256,
-      attribution: "OpenStreetMap",
-    },
-  },
+  sources: {},
   layers: [
     {
-      id: "osm",
-      type: "raster",
-      source: "osm",
+      id: "atlas-background",
+      type: "background",
       paint: {
-        "raster-opacity": 0.42,
-        "raster-saturation": -0.7,
-        "raster-contrast": 0.25,
-        "raster-brightness-min": 0.08,
-        "raster-brightness-max": 0.78,
+        "background-color": "#0b0d10",
       },
     },
   ],
@@ -84,7 +71,7 @@ export function MapCanvas({ accounts, statuses, selectedId, center, zoom, onSele
       if (!alive || !containerRef.current) return;
       const map = new maplibre.Map({
         container: containerRef.current,
-        style: rasterMapStyle,
+        style: cleanMapStyle,
         center: center ?? [-74.006, 40.7128],
         zoom: zoom ?? 11,
         attributionControl: false,

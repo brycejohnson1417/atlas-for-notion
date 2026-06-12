@@ -27,36 +27,12 @@
 .staticMapPreview {
   position: absolute;
   inset: 0;
+  z-index: 0;
   overflow: hidden;
   background:
-    linear-gradient(rgba(255, 255, 255, 0.035) 1px, transparent 1px),
-    linear-gradient(90deg, rgba(255, 255, 255, 0.035) 1px, transparent 1px),
     radial-gradient(circle at 50% 46%, rgba(94, 106, 210, 0.2), transparent 28%),
     #111820;
-  background-size: 34px 34px, 34px 34px, auto, auto;
-}
-
-.staticMapPreview::before,
-.staticMapPreview::after {
-  position: absolute;
-  content: "";
-  border-radius: 999px;
-  background: rgba(155, 161, 169, 0.16);
-  transform: rotate(-32deg);
-}
-
-.staticMapPreview::before {
-  top: 16%;
-  left: 42%;
-  width: 90px;
-  height: 120%;
-}
-
-.staticMapPreview::after {
-  top: -12%;
-  left: 58%;
-  width: 64px;
-  height: 92%;
+  pointer-events: none;
 }
 
 .staticMapPreview span {
@@ -68,6 +44,11 @@
   background: #16191e;
   box-shadow: var(--shadow-card);
   animation: pinDrop 420ms ease both;
+}
+
+.mapCanvas :global(.maplibregl-canvas-container),
+.mapCanvas :global(.maplibregl-control-container) {
+  z-index: 1;
 }
 
 @keyframes pinDrop {
